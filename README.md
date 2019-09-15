@@ -1,10 +1,9 @@
 # matlabmcr2019a
-[![https://www.singularity-hub.org/static/img/hosted-singularity--hub-%23e32929.svg](https://www.singularity-hub.org/static/img/hosted-singularity--hub-%23e32929.svg)](https://singularity-hub.org/collections/2229)
-[![Hosted](https://img.shields.io/badge/hosted-sylabs.io-red.svg)](https://cloud.sylabs.io/library/icaoberg/default/bioformats)
-[![Build Status](https://travis-ci.org/icaoberg/singularity-bioformats.svg?branch=master)](https://travis-ci.org/icaoberg/singularity-bioformats)
-[![GitHub issues](https://img.shields.io/github/issues/icaoberg/singularity-bioformats.svg)](https://github.com/icaoberg/singularity-bioformats/issues)
-[![GitHub forks](https://img.shields.io/github/forks/icaoberg/singularity-bioformats.svg)](https://github.com/icaoberg/singularity-bioformats/network)
-[![GitHub stars](https://img.shields.io/github/stars/icaoberg/singularity-bioformats.svg)](https://github.com/icaoberg/singularity-bioformats/stargazers)
+[![Hosted](https://img.shields.io/badge/hosted-sylabs.io-red.svg)](https://cloud.sylabs.io/library/icaoberg/default/matlabmcr2019a)
+[![Build Status](https://travis-ci.org/icaoberg/singularity-matlabmcr2019a.svg?branch=master)](https://travis-ci.org/icaoberg/singularity-matlabmcr2019a)
+[![GitHub issues](https://img.shields.io/github/issues/icaoberg/singularity-matlabmcr2019a.svg)](https://github.com/icaoberg/singularity-matlabmcr2019a/issues)
+[![GitHub forks](https://img.shields.io/github/forks/icaoberg/singularity-matlabmcr2019a.svg)](https://github.com/icaoberg/singularity-matlabmcr2019a/network)
+[![GitHub stars](https://img.shields.io/github/stars/icaoberg/singularity-matlabmcr2019a.svg)](https://github.com/icaoberg/singularity-matlabmcr2019a/stargazers)
 [![GitHub license](https://img.shields.io/badge/license-GPLv3-blue.svg)](https://www.gnu.org/licenses/quick-guide-gplv3.en.html)
 
 ![Logo](https://blogs.mathworks.com/images/cleve/logo_L42.png)
